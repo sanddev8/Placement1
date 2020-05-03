@@ -1,7 +1,0 @@
-welcome to world of java coding language
-Testing World
-class
-instance variable
-oops
-super
-inheritance
