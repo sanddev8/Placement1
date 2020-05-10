@@ -22,3 +22,6 @@ pearl
 
 business intelligence
 
+data analytics
+
+oops
