@@ -18,3 +18,4 @@ business intelligence
 
 data analytics
 
+Artifical Intelligence
