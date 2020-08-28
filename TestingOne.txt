@@ -4,8 +4,6 @@ Welcome to Testing.
 
 hello world
 
-welcome to scripting language
-
 java
 
 python
@@ -19,3 +17,7 @@ business intelligence
 data analytics
 
 Artifical Intelligence
+
+Machine Learning
+
+Data Science
